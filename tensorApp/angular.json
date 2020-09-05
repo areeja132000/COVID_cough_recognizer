@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tensorApp"
+    }
+  },
+  "defaultProject": "tensorApp",
+  "cli": {
+    "analytics": "b82b0119-6255-4624-879a-508df9073eaf"
+  }
 }
